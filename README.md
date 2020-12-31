@@ -1,8 +1,10 @@
 # VaccinItaly
 The goal of this project is to monitor Italian conversations around vaccines on Twitter.
 
+The associated paper to this repository can be found here: 
+
 # Data collection
-We use Twitter APIs to track the following keywords (which we update routinely with trending hashtags):
+Starting from December 20th 2020, we use Twitter API to track the following keywords (which we update routinely with trending hashtags):
 
 vaccini
 vaccino
@@ -23,7 +25,7 @@ iononmivaccino
 iononmivaccinero
 
 # Data availability
-A complete list of tweets IDs will be soon available in this repository and updated regularly. IDs can be "re-hydrated" in order to get original tweets objects.
+A complete list of tweets IDs will be soon available in this repository and updated regularly. IDs can be "re-hydrated" in order to get original tweets objects to comply with Twitter’s Terms of Service. Data is released for non-commercial research use.
 
 # Statistics
 Check this page for preliminary results: 
