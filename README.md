@@ -31,8 +31,7 @@ A complete list of tweets IDs will be soon available in this repository and upda
 Check this page for preliminary results: 
 
 # Team
-Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri
-
+Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri <br>
 Dipartimento di Elettronica, Informatica e Bioingegneria, Politecnico di Milano, Milano, Italy
 
 For any inquiries please contact: francesco.pierri at polimi.it
