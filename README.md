@@ -4,6 +4,24 @@ The goal of this project is to monitor Italian conversations around vaccines on 
 # Data collection
 We use Twitter APIs to track the following keywords (which we update routinely with trending hashtags):
 
+vaccini
+vaccino
+vaccinazioni
+vaccinazione
+vaccinarsi
+vaccinare
+vacciniamoci
+vaccinerò
+vaccinerai
+vaccineremo
+vaccinerete
+novaccinoainovax
+vaccinocovid
+vaccinoanticovid
+iononsonounacavia
+iononmivaccino
+iononmivaccinero
+
 # Data availability
 Tweets ids will be soon available in this repository. They can be "re-hydrated" in order to get original tweets objects.
 
