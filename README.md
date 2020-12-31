@@ -23,7 +23,7 @@ iononmivaccino
 iononmivaccinero
 
 # Data availability
-Tweets ids will be soon available in this repository. They can be "re-hydrated" in order to get original tweets objects.
+A complete list of tweets IDs will be soon available in this repository and updated regularly. IDs can be "re-hydrated" in order to get original tweets objects.
 
 # Statistics
 Check this page for preliminary results: 
