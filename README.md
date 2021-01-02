@@ -28,7 +28,7 @@ iononmivaccinero
 A complete list of tweets IDs will be soon available in this repository and updated regularly. IDs can be "re-hydrated" in order to get original tweets objects to comply with Twitter’s Terms of Service. Data is released for non-commercial research use.
 
 # Statistics
-Check this page for preliminary results: 
+Check this page for a visualization of on-going results: https://datastudio.google.com/s/hKPtsn5jAfQ
 
 # Team
 Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri <br>
