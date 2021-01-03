@@ -1,5 +1,5 @@
 # VaccinItaly
-The goal of this project is to monitor Italian conversations around vaccines on Twitter.
+The goal of this project is to monitor Italian conversations around vaccines on social media (Twitter, Facebook, Instagram).
 
 # Data collection
 Starting from December 20th 2020, we use Twitter API to track the following keywords (which we update routinely in order to capture trending hashtags):
@@ -21,6 +21,8 @@ vaccinoanticovid
 iononsonounacavia
 iononmivaccino
 iononmivaccinero
+
+We use Crowdtangle to collect posts matching these keywords on Facebook and Instagram.
 
 # Data availability
 A complete list of tweets IDs will be soon available in this repository and updated regularly. IDs can be "re-hydrated" in order to get original tweets objects to comply with Twitter’s Terms of Service. Data is released for non-commercial research use.
