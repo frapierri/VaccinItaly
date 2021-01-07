@@ -43,3 +43,6 @@ Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri <br>
 Dipartimento di Elettronica, Informatica e Bioingegneria, Politecnico di Milano, Milano, Italy
 
 For any inquiries please contact: francesco.pierri at polimi.it
+
+# Acknowledgments
+This work is partially supported by the EU H2020 research and innovation programme, COVID-19 call, under grant agreement No. 101016233 “PERISCOPE” (https://periscopeproject.eu/)
