@@ -22,7 +22,7 @@ iononsonounacavia
 iononmivaccino
 iononmivaccinero
 
-We use **Crowdtangle** to collect posts matching these keywords on **Facebook** and **Instagram**.
+We use **Crowdtangle** (https://www.crowdtangle.com) to collect posts matching these keywords on **Facebook** and **Instagram**.
 
 # Data availability
 A complete list of tweets IDs will be soon available in this repository and updated regularly. IDs can be "re-hydrated" in order to get original tweets objects to comply with Twitter’s Terms of Service. <br>
@@ -32,7 +32,8 @@ Crowdtangle's Terms of Service do not allow to release any data for Facebook and
 Check this page for a visualization of on-going results: https://datastudio.google.com/s/hKPtsn5jAfQ
 
 # Links to low and high credibility information
-We monitor the presence of low and high credibility information by checking domains of URLs shared in our dataset. We use a well-know source-based approach to label URLs based on two lists of Italian websites, respectively those sharing unreliable news and those publishing reliable news (check `high_credibility_websites.txt` and `low_credibility_websites.txt` files). <br>
+We monitor the presence of low and high credibility information by checking domains of URLs shared in our dataset. We use a well-know source-based approach to label URLs based on two lists of Italian websites, respectively those sharing unreliable news and those publishing reliable news (check `high_credibility_websites.txt` and `low_credibility_websites.txt` files).
+
 If you use these lists please remember to cite the following papers:<br>
 Pierri, Francesco. "The diffusion of mainstream and disinformation news on Twitter: the case of Italy and France." Companion Proceedings of the Web Conference 2020. 2020. <br>
 Pierri, Francesco, Alessandro Artoni, and Stefano Ceri. "Investigating Italian disinformation spreading on Twitter in the context of 2019 European elections." PloS one 15.1 (2020): e0227821. <br>
