@@ -25,7 +25,7 @@ iononmivaccinero
 We use **Crowdtangle** (https://www.crowdtangle.com) to collect posts matching these keywords on **Facebook** and **Instagram**.
 
 # Data availability
-A complete list of tweets IDs will be soon available in this repository and updated regularly. IDs can be "re-hydrated" in order to get original tweets objects to comply with Twitter’s Terms of Service. <br>
+A complete list of tweets IDs is available in `tweets_ids` folder and updated regularly. IDs can be "re-hydrated" in order to get original tweets objects to comply with Twitter’s Terms of Service. <br>
 Crowdtangle's Terms of Service do not allow to release any data for Facebook and Instagram, but we provide a script (cf `ct_collector.py`) to query Crowdtangle API and re-create our datasets (you first need to require access to the platform: https://www.crowdtangle.com/request).
 
 # Statistics
