@@ -1,7 +1,7 @@
 # VaccinItaly
 The goal of this project is to monitor Italian conversations around vaccines on social media (Twitter, Facebook, Instagram).
 
-Reference paper(s):
+Reference paper(s): <br>
 VaccinItaly: monitoring Italian conversations around vaccines on Twitter. Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri (2020) https://arxiv.org/abs/2101.03757
 
 # Data collection
