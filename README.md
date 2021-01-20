@@ -6,25 +6,7 @@ If you use this data please cite the following paper(s): <br>
 
 
 # Data collection
-Starting from December 20th 2020, we use **Twitter API** to track the following keywords (which we update routinely in order to capture trending hashtags):
-
-vaccini
-vaccino
-vaccinazioni
-vaccinazione
-vaccinarsi
-vaccinare
-vacciniamoci
-vaccinerò
-vaccinerai
-vaccineremo
-vaccinerete
-novaccinoainovax
-vaccinocovid
-vaccinoanticovid
-iononsonounacavia
-iononmivaccino
-iononmivaccinero
+Starting from December 20th 2020, we use **Twitter API** to track a list of keywords (cf. `keywords.txt`), which we update routinely in order to capture trending hashtags.
 
 We use **Crowdtangle** (https://www.crowdtangle.com) to collect posts matching these keywords on **Facebook** and **Instagram**.
 
