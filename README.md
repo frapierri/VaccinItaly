@@ -2,7 +2,7 @@
 The goal of this project is to monitor Italian conversations around vaccines on social media (Twitter, Facebook, Instagram).
 
 If you use this data please cite the following paper(s): <br>
-**VaccinItaly: monitoring Italian conversations around vaccines on Twitter. Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri (2020)** https://arxiv.org/abs/2101.03757 <br>
+**VaccinItaly: monitoring Italian conversations around vaccines on Twitter. Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri (2021)** https://arxiv.org/abs/2101.03757 <br>
 
 
 # Data collection
@@ -23,7 +23,7 @@ We monitor the presence of low and high credibility information by checking doma
 If you use these lists please remember to cite the following papers:<br>
 Pierri, Francesco. "The diffusion of mainstream and disinformation news on Twitter: the case of Italy and France." Companion Proceedings of the Web Conference 2020. 2020. <br>
 Pierri, Francesco, Alessandro Artoni, and Stefano Ceri. "Investigating Italian disinformation spreading on Twitter in the context of 2019 European elections." PloS one 15.1 (2020): e0227821. <br>
-VaccinItaly: monitoring Italian conversations around vaccines on Twitter. Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri (2020) https://arxiv.org/abs/2101.03757  <br>
+Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri "VaccinItaly: monitoring Italian conversations around vaccines on Twitter." (2021) https://arxiv.org/abs/2101.03757  <br>
 
 # Team
 Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri <br>
