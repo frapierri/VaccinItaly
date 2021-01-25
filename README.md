@@ -15,6 +15,7 @@ Crowdtangle's Terms of Service do not allow to release any data for Facebook and
 
 # Dashboard
 Check this page for a dashboard which shows statistics for the data: http://genomic.elet.polimi.it/vaccinitaly/
+(credits to Andrea Gulino for his support)
 
 # Links to low and high credibility information
 We monitor the presence of low and high credibility information by checking domains of URLs shared in our dataset. We use a well-know source-based approach to label URLs based on two lists of Italian websites, respectively those sharing unreliable news and those publishing reliable news (check `high_credibility_websites.txt` and `low_credibility_websites.txt` files).
