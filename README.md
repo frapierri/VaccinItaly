@@ -14,7 +14,7 @@ A complete list of tweets IDs is available in `tweets_ids` folder and updated re
 Crowdtangle's Terms of Service do not allow to release any data for Facebook and Instagram, but we provide a script (cf `ct_collector.py`) to query Crowdtangle API and re-create our datasets (you first need to require access to the platform: https://www.crowdtangle.com/request).
 
 # Dashboard
-Check this page for a dashboard which shows statistics for the data: https://datastudio.google.com/s/hKPtsn5jAfQ
+Check this page for a dashboard which shows statistics for the data: http://genomic.elet.polimi.it/vaccinitaly/
 
 # Links to low and high credibility information
 We monitor the presence of low and high credibility information by checking domains of URLs shared in our dataset. We use a well-know source-based approach to label URLs based on two lists of Italian websites, respectively those sharing unreliable news and those publishing reliable news (check `high_credibility_websites.txt` and `low_credibility_websites.txt` files).
