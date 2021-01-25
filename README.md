@@ -4,7 +4,6 @@ The goal of this project is to monitor Italian conversations around vaccines on 
 If you use this data please cite the following paper(s): <br>
 **VaccinItaly: monitoring Italian conversations around vaccines on Twitter. Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri (2021)** https://arxiv.org/abs/2101.03757 <br>
 
-
 # Data collection
 Starting from December 20th 2020, we use **Twitter API** to track a list of keywords (cf. `keywords.txt`), which we update routinely in order to capture trending hashtags.
 
@@ -14,8 +13,8 @@ We use **Crowdtangle** (https://www.crowdtangle.com) to collect posts matching t
 A complete list of tweets IDs is available in `tweets_ids` folder and updated regularly. IDs can be "re-hydrated" in order to get original tweets objects to comply with Twitter’s Terms of Service. <br>
 Crowdtangle's Terms of Service do not allow to release any data for Facebook and Instagram, but we provide a script (cf `ct_collector.py`) to query Crowdtangle API and re-create our datasets (you first need to require access to the platform: https://www.crowdtangle.com/request).
 
-# Statistics
-Check this page for a visualization of on-going results: https://datastudio.google.com/s/hKPtsn5jAfQ
+# Dashboard
+Check this page for a dashboard which shows statistics for the data: https://datastudio.google.com/s/hKPtsn5jAfQ
 
 # Links to low and high credibility information
 We monitor the presence of low and high credibility information by checking domains of URLs shared in our dataset. We use a well-know source-based approach to label URLs based on two lists of Italian websites, respectively those sharing unreliable news and those publishing reliable news (check `high_credibility_websites.txt` and `low_credibility_websites.txt` files).
