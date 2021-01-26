@@ -14,7 +14,7 @@ A complete list of tweets IDs is available in `tweets_ids` folder and updated re
 Crowdtangle's Terms of Service do not allow to release any data for Facebook and Instagram, but we provide a script (cf `ct_collector.py`) to query Crowdtangle API and re-create our datasets (you first need to require access to the platform: https://www.crowdtangle.com/request).
 
 # Dashboard
-Check this page for a dashboard which shows statistics for the data: http://genomic.elet.polimi.it/vaccinitaly/
+We provide an interactive dashboard that shows statistics about the data here: http://genomic.elet.polimi.it/vaccinitaly/
 (Special thanks to Andrea Gulino and Alessio Brina)
 
 # Links to low and high credibility information
