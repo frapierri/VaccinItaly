@@ -17,13 +17,17 @@ Crowdtangle's Terms of Service do not allow to release any data for Facebook, bu
 We provide an interactive dashboard that shows statistics about the data here: http://genomic.elet.polimi.it/vaccinitaly/ <br>
 (Special thanks to Andrea Gulino and Alessio Brina)
 
-# Links to low and high credibility information
+# Sources of information
 We monitor the presence of low and high credibility information by checking domains of URLs shared in our dataset. We use a well-know source-based approach to label URLs based on two lists of Italian websites, respectively those sharing unreliable news and those publishing reliable news (check `high_credibility_websites.txt` and `low_credibility_websites.txt` files).
+More specifically: <br>
+High-credibiity news websites are mainstream, popular and traditional news websites identified via Agenzia Diffusione Stampa. Low-credibility news websites are extracted by blacklists compiled by fact-checkers and journalists (Butac.it, Bufale.net and PagellaPolitica); this doesn't mean that such websites publish only "fake news", but that they were repeatedly flagged for sharing misleading and false content. We further use NewsGuard to assess the reliability of news websites, considering as High Credibility those which obtain a score of at least 60/100, and Low-credibility otherwise. 
+We are aware that this approach is not perfect, as cases of misinformation on mainstream websites are not rare, but it is widely adopted in the research community. Besides, we are not tracking different kind of unreliable information such as photos, videos or memes. 
 
 If you use these lists please remember to cite the following papers:<br>
 * Pierri, Francesco. "The diffusion of mainstream and disinformation news on Twitter: the case of Italy and France." Companion Proceedings of the Web Conference 2020. 2020. <br>
 * Pierri, Francesco, Alessandro Artoni, and Stefano Ceri. "Investigating Italian disinformation spreading on Twitter in the context of 2019 European elections." PloS one 15.1 (2020): e0227821. <br>
 * Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri "VaccinItaly: monitoring Italian conversations around vaccines on Twitter." (2021) https://arxiv.org/abs/2101.03757  <br>
+
 
 # Team
 Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri <br>
