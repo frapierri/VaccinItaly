@@ -1,45 +1,29 @@
 # VaccinItaly
-The goal of this project is to monitor Italian conversations around vaccines on social media (Twitter, Facebook, Instagram).
+The goal of this project is to monitor Italian conversations around vaccines on social media (Twitter, Facebook).
 
-Reference paper(s): <br>
-**VaccinItaly: monitoring Italian conversations around vaccines on Twitter. Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri (2020)** https://arxiv.org/abs/2101.03757
+If you use this data please cite the following paper(s): <br>
+**VaccinItaly: monitoring Italian conversations around vaccines on Twitter. Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri (2021)** https://arxiv.org/abs/2101.03757 <br>
 
 # Data collection
-Starting from December 20th 2020, we use **Twitter API** to track the following keywords (which we update routinely in order to capture trending hashtags):
+Starting from December 20th 2020, we use **Twitter API** to track a list of keywords (cf. `keywords.txt`), which we update routinely in order to capture trending hashtags.
 
-vaccini
-vaccino
-vaccinazioni
-vaccinazione
-vaccinarsi
-vaccinare
-vacciniamoci
-vaccinerò
-vaccinerai
-vaccineremo
-vaccinerete
-novaccinoainovax
-vaccinocovid
-vaccinoanticovid
-iononsonounacavia
-iononmivaccino
-iononmivaccinero
-
-We use **Crowdtangle** (https://www.crowdtangle.com) to collect posts matching these keywords on **Facebook** and **Instagram**.
+We use **Crowdtangle** (https://www.crowdtangle.com) to collect posts matching these keywords on **Facebook**.
 
 # Data availability
 A complete list of tweets IDs is available in `tweets_ids` folder and updated regularly. IDs can be "re-hydrated" in order to get original tweets objects to comply with Twitter’s Terms of Service. <br>
-Crowdtangle's Terms of Service do not allow to release any data for Facebook and Instagram, but we provide a script (cf `ct_collector.py`) to query Crowdtangle API and re-create our datasets (you first need to require access to the platform: https://www.crowdtangle.com/request).
+Crowdtangle's Terms of Service do not allow to release any data for Facebook, but we provide a script (cf `ct_collector.py`) to query Crowdtangle API and re-create our datasets (you first need to require access to the platform: https://www.crowdtangle.com/request).
 
-# Statistics
-Check this page for a visualization of on-going results: https://datastudio.google.com/s/hKPtsn5jAfQ
+# Dashboard
+We provide an interactive dashboard that shows statistics about the data here: http://genomic.elet.polimi.it/vaccinitaly/ <br>
+(Special thanks to Andrea Gulino and Alessio Brina)
 
 # Links to low and high credibility information
 We monitor the presence of low and high credibility information by checking domains of URLs shared in our dataset. We use a well-know source-based approach to label URLs based on two lists of Italian websites, respectively those sharing unreliable news and those publishing reliable news (check `high_credibility_websites.txt` and `low_credibility_websites.txt` files).
 
 If you use these lists please remember to cite the following papers:<br>
-Pierri, Francesco. "The diffusion of mainstream and disinformation news on Twitter: the case of Italy and France." Companion Proceedings of the Web Conference 2020. 2020. <br>
-Pierri, Francesco, Alessandro Artoni, and Stefano Ceri. "Investigating Italian disinformation spreading on Twitter in the context of 2019 European elections." PloS one 15.1 (2020): e0227821. <br>
+* Pierri, Francesco. "The diffusion of mainstream and disinformation news on Twitter: the case of Italy and France." Companion Proceedings of the Web Conference 2020. 2020. <br>
+* Pierri, Francesco, Alessandro Artoni, and Stefano Ceri. "Investigating Italian disinformation spreading on Twitter in the context of 2019 European elections." PloS one 15.1 (2020): e0227821. <br>
+* Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri "VaccinItaly: monitoring Italian conversations around vaccines on Twitter." (2021) https://arxiv.org/abs/2101.03757  <br>
 
 # Team
 Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri <br>
