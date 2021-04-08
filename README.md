@@ -29,7 +29,7 @@ If you use these lists please remember to cite the following papers:<br>
 
 
 # Team
-Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri <br>
+Francesco Pierri, Lorenzo Corti, Marco Di Giovanni, Silvio Pavanetto, Andrea Tocchetti, Marco Brambilla, Stefano Ceri <br>
 Dipartimento di Elettronica, Informatica e Bioingegneria, Politecnico di Milano, Milano, Italy
 
 For any inquiries please contact: francesco.pierri at polimi.it
