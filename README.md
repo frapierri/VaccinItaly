@@ -2,7 +2,7 @@
 The goal of this project is to monitor Italian conversations around vaccines on social media (Twitter, Facebook).
 
 If you use this data please cite the following paper(s): <br>
-**VaccinItaly: monitoring Italian conversations around vaccines on Twitter. Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri (2021)** https://arxiv.org/abs/2101.03757 <br>
+**"VaccinItaly: monitoring Italian conversations around vaccines on Twitter." Pierri Francesco,  Tocchetti Andrea,  Corti Lorenzo,  Di Giovanni Marco,  Pavanetto Silvio,  Brambilla Marco,  Ceri Stefano (2021) ICWSM'2021** https://arxiv.org/abs/2101.03757 <br>
 
 # Data collection
 Starting from December 20th 2020, we use **Twitter API** to track a list of keywords (cf. `keywords.txt`), which we update routinely in order to capture trending hashtags.
@@ -23,9 +23,9 @@ High-credibiity news websites are mainstream, popular and traditional news websi
 We are aware that this approach is not perfect, as cases of misinformation on mainstream websites are not rare, but it is widely adopted in the research community. Besides, we are not tracking different kind of unreliable information such as photos, videos or memes. 
 
 If you use these lists please remember to cite the following papers:<br>
-* Pierri, Francesco. "The diffusion of mainstream and disinformation news on Twitter: the case of Italy and France." Companion Proceedings of the Web Conference 2020. 2020. <br>
-* Pierri, Francesco, Alessandro Artoni, and Stefano Ceri. "Investigating Italian disinformation spreading on Twitter in the context of 2019 European elections." PloS one 15.1 (2020): e0227821. <br>
-* Francesco Pierri, Silvio Pavanetto, Marco Brambilla, Stefano Ceri "VaccinItaly: monitoring Italian conversations around vaccines on Twitter." (2021) https://arxiv.org/abs/2101.03757  <br>
+* Pierri, Francesco "The diffusion of mainstream and disinformation news on Twitter: the case of Italy and France." Companion Proceedings of the Web Conference 2020. 2020. <br>
+* Pierri, Francesco, Alessandro Artoni, and Stefano Ceri "Investigating Italian disinformation spreading on Twitter in the context of 2019 European elections." PloS one 15.1 (2020): e0227821. <br>
+* Pierri Francesco,  Tocchetti Andrea,  Corti Lorenzo,  Di Giovanni Marco,  Pavanetto Silvio,  Brambilla Marco,  Ceri Stefano "VaccinItaly: monitoring Italian conversations around vaccines on Twitter." (2021) ICWSM'2021** https://arxiv.org/abs/2101.03757 <br>
 
 
 # Team
