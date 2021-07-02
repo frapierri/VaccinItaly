@@ -1,5 +1,5 @@
 # VaccinItaly
-The goal of this project is to monitor Italian conversations around vaccines on social media (Twitter, Facebook).
+The goal of this project is to monitor Italian conversations around vaccines on social media (Twitter, Facebook) and understand the interplay between online public discourse and vaccine hesitancy/uptake rates.
 
 If you use this data please cite the following paper(s): <br>
 **"VaccinItaly: monitoring Italian conversations around vaccines on Twitter and Facebook" Pierri Francesco,  Tocchetti Andrea,  Corti Lorenzo,  Di Giovanni Marco,  Pavanetto Silvio,  Brambilla Marco,  Ceri Stefano (2021) ICWSM'2021** http://workshop-proceedings.icwsm.org/pdf/2021_11.pdf <br>
