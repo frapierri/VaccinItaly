@@ -25,11 +25,11 @@ We are aware that this approach is not perfect, as cases of misinformation on ma
 If you use these lists please remember to cite the following papers:<br>
 * Pierri, Francesco "The diffusion of mainstream and disinformation news on Twitter: the case of Italy and France" Companion Proceedings of the Web Conference 2020. 2020. <br>
 * Pierri, Francesco, Alessandro Artoni, and Stefano Ceri "Investigating Italian disinformation spreading on Twitter in the context of 2019 European elections" PloS one 15.1 (2020): e0227821. <br>
-* Pierri Francesco,  Tocchetti Andrea,  Corti Lorenzo,  Di Giovanni Marco,  Pavanetto Silvio,  Brambilla Marco,  Ceri Stefano "VaccinItaly: monitoring Italian conversations around vaccines on Twitter and Facebook" (2021) ICWSM'2021** http://workshop-proceedings.icwsm.org/pdf/2021_11.pdf <br>
+* Pierri Francesco,  Tocchetti Andrea,  Corti Lorenzo,  Di Giovanni Marco,  Pavanetto Silvio,  Brambilla Marco,  Ceri Stefano "VaccinItaly: monitoring Italian conversations around vaccines on Twitter and Facebook" (2021) ICWSM'2021 http://workshop-proceedings.icwsm.org/pdf/2021_11.pdf <br>
 
 
 # Team
-Francesco Pierri, Lorenzo Corti, Marco Di Giovanni, Silvio Pavanetto, Andrea Tocchetti, Marco Brambilla, Stefano Ceri <br>
+Francesco Pierri, Lorenzo Corti, Marco Di Giovanni, Mathyas Giudici, Silvio Pavanetto, Andrea Tocchetti, Marco Brambilla, Stefano Ceri <br>
 Dipartimento di Elettronica, Informatica e Bioingegneria, Politecnico di Milano, Milano, Italy
 
 For any inquiries please contact: francesco.pierri at polimi.it
